@@ -74,7 +74,7 @@ I also took the screen shots for each setting.
 Please note that UTC+9 hours is my local time(JST).
 So, 10:00pm - 12:00 pm UTC equals 7:00am - 9pm JST,  3:00pm UTC equals 12:00am JST.
 
-# Collecting APM Data:  
+## Collecting APM Data:  
  
 Q)Given the following Flask app (or any Python/Ruby/Go app of your choice) instrument this using Datadog’s APM solution: 
 Provide a link and a screenshot of a Dashboard with both APM and Infrastructure Metrics. Please include your fully instrumented app in your submission, as well.  
@@ -92,7 +92,7 @@ Q) Bonus Question: What is the difference between a Service and a Resource?
 A) Service is a set of process working together to provide a feature like a WebServer, a DB Server.  Resource is a particular query to a service. 
 For example, if there is a "DB Server" service, the resource would be a SQL query to the "DB Server" service.
 
-# Final Question:  
+## Final Question:  
   
 Q) Datadog has been used in a lot of creative ways in the past. We’ve written some blog posts about using Datadog to monitor the NYC Subway System, Pokemon Go, and even office restroom availability! Is there anything creative you would use Datadog for?   
   
